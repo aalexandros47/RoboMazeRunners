@@ -82,7 +82,7 @@ The report includes:
 ### Installation
 Clone the repository:
 ```sh
-git clone https://github.com/aalexandros47/Portfolio_Website.git
+git clone https://github.com/aalexandros47/RoboMazeRunners.git
 cd Portfolio_Website
 ```
 

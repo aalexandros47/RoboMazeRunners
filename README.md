@@ -63,15 +63,6 @@ python iengine.py <filename> <method>
 - `YES` or `NO` based on whether the query is entailed by the KB.
 - Additional information such as the number of models (TT) or entailed symbols (FC, BC).
 
-### Report
-The report includes:
-- Instructions on using the program
-- Introduction to propositional logic and inference methods
-- Implementation details with diagrams and pseudocode
-- Testing results
-- Features, bugs, and missing functionalities
-- Research initiatives and optimizations
-
 ---
 
 ## Getting Started

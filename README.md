@@ -1,4 +1,4 @@
-# COS30019 - Introduction to AI Projects
+# COS30019 - Introduction to AI 
 
 This repository contains the code and reports for two projects completed as part of the COS30019 - Introduction to AI course. The projects focus on different aspects of AI: tree-based search algorithms and propositional logic inference engines. Below are the details for each project.
 

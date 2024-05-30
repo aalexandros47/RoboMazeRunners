@@ -83,7 +83,7 @@ The report includes:
 Clone the repository:
 ```sh
 git clone https://github.com/aalexandros47/RoboMazeRunners.git
-cd Portfolio_Website
+cd <file>
 ```
 
 ### Running the Programs
